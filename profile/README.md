@@ -25,8 +25,7 @@
 
 ### Repository Guidelines
 
-<div style="height: 500px; width: 100px; background-color:blue') no-repeat center; background-size: cover;">
-  <!-- Image container -->
+<div style="width: 100px; height: 100px; background-color: red;">
 </div>
 
 - **Branching Strategy:** Follow the GitFlow branching model. Use feature branches for new developments, hotfix branches for urgent fixes, and keep `main` as the stable release branch.
