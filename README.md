@@ -10,10 +10,20 @@
 
 ## Connect with Us!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SAL-blue?logo=linkedin)](https://www.linkedin.com/company/sal-save-a-life/)  
-[![Website](https://img.shields.io/badge/Website-savealife.co.nz-orange?logo=internet-explorer)](https://savealife.co.nz/)
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/company/sal-save-a-life/">
+    <img src="/assets/icons/linkedin.svg" alt="LinkedIn">
+  </a>
+  <a href="https://savealife.co.nz/">
+    <img src="/assets/icons/link.svg" alt="Website">
+  </a>
+  <a href="https://github.com/SAVE-A-LIFE-New-Zealand">
+    <img src="/assets/icons/github.svg" alt="Github">
+  </a>
+</div>
 ---
+
+![SAL GitHub Structure](https://github.com/SAVE-A-LIFE-New-Zealand/.github/blob/master/images/sal-github-structure.png?raw=true)
 
 ### Repository Guidelines
 
