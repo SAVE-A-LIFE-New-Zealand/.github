@@ -25,7 +25,7 @@
 
 ### Repository Guidelines
 
-<div style="height: auto; width: 100%; background: url('/assets/images/sal-github-structure.png') no-repeat center; background-size: cover;">
+<div style="height: 500px; width: 100%; background: url('/assets/images/sal-github-structure.png') no-repeat center; background-size: cover;">
   <!-- Image container -->
 </div>
 
