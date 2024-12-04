@@ -12,13 +12,13 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/company/sal-save-a-life/">
-    <img src="/assets/icons/linkedin.svg" alt="LinkedIn">
+    <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://savealife.co.nz/">
-    <img src="/assets/icons/link.svg" alt="Website">
+    <img src="/assets/icons/link.svg" alt="Website" width="40" height="40">
   </a>
   <a href="https://github.com/SAVE-A-LIFE-New-Zealand">
-    <img src="/assets/icons/github.svg" alt="Github">
+    <img src="/assets/icons/github.svg" alt="Github" width="40" height="40">
   </a>
 </div>
 ---
