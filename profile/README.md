@@ -10,7 +10,7 @@
 
 ## Connect with Us!
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="width: 100%, display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/company/sal-save-a-life/">
     <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="color=#538dd7">
   </a>
