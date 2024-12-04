@@ -14,9 +14,11 @@
   <a style="margin-right: 30px"   align="center" href="https://www.linkedin.com/company/sal-save-a-life/">
     <img src="/assets/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="color=#538dd7">
   </a>
+  &nbsp;
   <a style="margin-right: 30px"  align="center" href="https://savealife.co.nz/">
     <img src="/assets/icons/link.svg" alt="Website" width="32" height="32" style="color=#538dd7">
   </a>
+  &nbsp;
   <a style="margin-right: 30px"  align="center" href="https://github.com/SAVE-A-LIFE-New-Zealand">
     <img src="/assets/icons/github.svg" alt="Github" width="32" height="32" style="color=#538dd7">
   </a>
