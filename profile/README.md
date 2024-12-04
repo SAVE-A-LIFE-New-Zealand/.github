@@ -24,8 +24,7 @@
 
 ### Repository Guidelines
 
-<div style="width: 100px; height: 100px; background-color: red;">
-</div>
+![alt text](https://raw.githubusercontent.com/SAVE-A-LIFE-New-Zealand/.github/refs/heads/master/assets/images/sal-github-structure.png)
 
 - **Branching Strategy:** Follow the GitFlow branching model. Use feature branches for new developments, hotfix branches for urgent fixes, and keep `main` as the stable release branch.
 - **Issue Tracking:** Use the Issues section to report bugs, request features, and track project progress.
