@@ -25,7 +25,7 @@
 
 ### Repository Guidelines
 
-<div style="height: 500px; width: 100%; background: url('[/assets/images/sal-github-structure.png](https://github.com/SAVE-A-LIFE-New-Zealand/.github/blob/master/assets/images/sal-github-structure.png?raw=true)') no-repeat center; background-size: cover;">
+<div style="height: 500px; width: 100%; background-color:blue') no-repeat center; background-size: cover;">
   <!-- Image container -->
 </div>
 
