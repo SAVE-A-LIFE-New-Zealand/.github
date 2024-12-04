@@ -25,7 +25,7 @@
 
 ### Repository Guidelines
 
-<div style="height: 500px; width: 100%; background-color:blue') no-repeat center; background-size: cover;">
+<div style="height: 500px; width: 100px; background-color:blue') no-repeat center; background-size: cover;">
   <!-- Image container -->
 </div>
 
